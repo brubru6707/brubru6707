@@ -6,4 +6,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brubru6707&show_icons=true&locale=en" alt="brubru6707" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brubru6707&" alt="brubru6707" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user='brubru6707'&" alt="brubru6707" /></p>
