@@ -5,5 +5,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brubru6707" alt="brubru6707" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brubru6707&show_icons=true&locale=en" alt="brubru6707" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user='brubru6707'&" alt="brubru6707" /></p>
