@@ -1,3 +1,1 @@
-### 👋 I Like Engineering :)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brubru6707&label=Profile%20views&color=0e75b6&style=flat" alt="bleedingdev" /> </p>
+### 👋 Engine - e - ring :)
